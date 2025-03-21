@@ -1,0 +1,101 @@
+ID,Age,Salary,Department,Experience,City
+1,50,110592,IT,0,Los Angeles
+2,36,48110,HR,14,Chicago
+3,29,119309,Finance,0,New York
+4,42,67266,Finance,4,San Francisco
+5,40,92992,HR,15,New York
+6,44,46910,HR,18,Chicago
+7,,Finance,3,Chicago
+8,32,63419,Finance,2,Los Angeles
+9,45,,Marketing,16,San Francisco
+10,57,90015,Marketing,16,Los Angeles
+11,45,94268,HR,,Chicago
+12,24,58141,Marketing,13,New York
+13,43,,IT,5,San Francisco
+14,23,96044,Marketing,2,New York
+15,45,107214,Marketing,8,New York
+16,51,,IT,4,San Francisco
+17,59,95820,HR,16,Los Angeles
+18,23,102623,IT,13,New York
+19,42,115450,Marketing,2,Chicago
+20,54,62299,HR,,New York
+21,33,83585,Marketing,19,San Francisco
+22,43,104044,IT,0,San Francisco
+23,46,82557,IT,2,San Francisco
+24,48,89080,Marketing,17,Los Angeles
+25,49,42693,Finance,9,New York
+26,37,109163,Finance,2,Los Angeles
+27,,65939,IT,7,Los Angeles
+28,24,88925,IT,13,San Francisco
+29,,82941,Finance,17,San Francisco
+30,,61834,Finance,14,Los Angeles
+31,42,58047,Marketing,,New York
+32,30,66105,Marketing,9,Chicago
+33,39,115766,Finance,1,Los Angeles
+34,25,55707,Marketing,16,New York
+35,46,61976,Marketing,7,San Francisco
+36,35,,HR,0,San Francisco
+37,30,63776,Marketing,,New York
+38,47,70080,IT,10,Chicago
+39,23,106842,Marketing,15,San Francisco
+40,41,,Marketing,6,San Francisco
+41,49,46776,Finance,9,San Francisco
+42,28,,IT,2,New York
+43,,Marketing,17,Los Angeles
+44,56,98053,Marketing,12,San Francisco
+45,35,61959,HR,6,Los Angeles
+46,38,45530,Marketing,3,Chicago
+47,57,43748,Marketing,12,San Francisco
+48,25,53545,HR,19,San Francisco
+49,23,106199,Finance,0,Chicago
+50,27,74766,Marketing,7,San Francisco
+51,25,113530,HR,13,Los Angeles
+52,,101087,IT,15,New York
+53,39,108840,Finance,13,Los Angeles
+54,47,94384,IT,11,New York
+55,,91005,IT,18,New York
+56,31,86576,HR,14,Los Angeles
+57,57,79353,Marketing,1,Los Angeles
+58,35,102003,HR,1,Los Angeles
+59,,92733,HR,18,Los Angeles
+60,36,105318,HR,16,Chicago
+61,29,63664,HR,19,San Francisco
+62,35,107172,Finance,9,New York
+63,44,66736,Marketing,5,Los Angeles
+64,42,40854,IT,14,Los Angeles
+65,37,78623,IT,,Los Angeles
+66,39,,Marketing,4,Chicago
+67,45,95680,IT,0,Los Angeles
+68,47,86717,Marketing,7,Los Angeles
+69,46,90859,IT,11,Los Angeles
+70,50,66309,HR,11,San Francisco
+71,36,103734,IT,4,Chicago
+72,22,110467,Marketing,6,Los Angeles
+73,46,92662,Marketing,3,New York
+74,28,52688,Marketing,,New York
+75,30,65342,Marketing,12,New York
+76,45,77157,Marketing,19,Chicago
+77,22,107863,Finance,14,Chicago
+78,29,92083,Finance,2,New York
+79,,105733,IT,7,Los Angeles
+80,32,74698,Marketing,19,Chicago
+81,38,62671,IT,15,New York
+82,29,,Marketing,12,New York
+83,56,82107,Marketing,,Los Angeles
+84,56,91663,Finance,9,San Francisco
+85,,55708,Finance,18,Chicago
+86,26,89811,HR,,Los Angeles
+87,49,42811,Finance,18,New York
+88,28,96250,HR,4,New York
+89,30,112082,HR,8,Los Angeles
+90,29,74754,HR,11,Chicago
+91,33,51411,HR,0,San Francisco
+92,55,42911,HR,0,San Francisco
+93,54,107270,IT,,New York
+94,44,48680,Finance,1,Chicago
+95,45,111295,HR,15,San Francisco
+96,58,51111,Marketing,7,Chicago
+97,56,77504,Finance,,Chicago
+98,43,41802,Finance,0,New York
+99,48,48155,HR,15,San Francisco
+100,56,113656,IT,6,Los Angeles
